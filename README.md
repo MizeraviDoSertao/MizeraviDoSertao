@@ -14,12 +14,15 @@
 - 📫 How to reach me **pedrolucas_14oliveira@hotmail.com**
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-  <a href="https://www.linkedin.com/in/pedro-lucas-oliveira-soares" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</a>
+  <a href="https://www.linkedin.com/in/pedro-lucas-oliveira-soares-342101325" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
   <a href="https://www.instagram.com/pedro_lucas.o.s/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+</a>
   <a href="mailto:contato@pedrolucas44oliveira@gmail.com">
-  <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img align="left"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
    <br>
 
 
