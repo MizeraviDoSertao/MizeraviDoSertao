@@ -1,6 +1,0 @@
-### Problemas Comuns
-
-- **Erro: "Could not fetch total commits"**
-  - Certifique-se de que você tenha um token de acesso válido e permissões suficientes para acessar o repositório.
-  - Verifique se você não atingiu o limite de requisições da API do GitHub.
-  - Confira se o código que faz a requisição está correto e se a URL da API está formatada corretamente.
