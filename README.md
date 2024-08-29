@@ -15,7 +15,7 @@
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 </a>
-  <a href="https://www.linkedin.com/in/pedro-lucas-oliveira-soares-342101325" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/pedrolucasoliveirasoares" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
   <a href="https://www.instagram.com/pedro_lucas.o.s/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
